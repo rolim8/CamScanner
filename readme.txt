@@ -1,0 +1,1 @@
+Esse projeto foi feito em Python utilizando OpenCV, Tkinter, OS, Pillow, com a proposta de Capturar a Camera do PC.
